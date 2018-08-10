@@ -1,4 +1,4 @@
-#TcpSocketLib
+# TcpSocketLib
 
 在Android开发中，经常会需要由服务端主动推送一些消息给客户端，最常见的做法就是用Tcp Socket保持长链接。为了简化这个过程，做了一个简单的依赖库来实现TCP Socket的client功能。
 
