@@ -2,7 +2,7 @@ package com.lpoint.tcpsocketlib;
 
 /**
  * @author 季白
- *         创建时间 2018/8/10.
+ *         create time 2018/8/10.
  */
 
 public interface TcpSocketListener {
